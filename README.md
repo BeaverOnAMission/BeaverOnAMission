@@ -18,7 +18,7 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
   <a href="http://www.instagram.com/________narcissus_________?igshid=expqrqpcrn65o" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" height="32" alt="Instagram Logo" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram Logo" />
     </picture>
   </a>
 </p>
