@@ -6,7 +6,7 @@ Mobile Developer
 
 I am enthusiastic 19-year-old, who wants to implement his ideas through mobile development, for now I am at 3rd year of University, desperately looking for experience.
 
-* ✉️  You can contact me at [babenko.bohdan1@gmail.com](mailto:babenko.bohdan1@gmail.com)
+* ✉️  You can contact me at [babenko.bohdan01@gmail.com](mailto:babenko.bohdan01@gmail.com)
 * 🧠  I'm learning Kotlin/.NET
 * ⚡  I am a fast learner who is excited about any challenge
 
