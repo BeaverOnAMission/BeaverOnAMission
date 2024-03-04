@@ -26,10 +26,10 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 ### Some of my small projects: 
 
 
-<div align="center">
-  <img src="https://example.com/gif1.gif](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/25932995-374e-4f50-a142-18e95fe50f93" width="334" height="720"/>
- 
-</div>
+<div align="left" width="334" height="720">
+ ![Untitled design-3](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/4882330d-ad45-4743-bb0e-c5e48d934e72)
+</div>![Untitled design-3](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/4882330d-ad45-4743-bb0e-c5e48d934e72)
+
 
 ![Untitled design-3](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/e8bcbb51-42bd-4c6e-8d5b-55993077d545)
 ![clideo_editor_389ce88eb448498882c6d5894150c819-ezgif com-video-to-gif-converter](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/681dcf10-493a-4fb4-a6b9-4726a7d665a3)
