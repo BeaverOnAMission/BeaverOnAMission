@@ -25,7 +25,7 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 ### Some of my small projects: 
 
-<div style="display: flex; justify-content: space-between;">
+<div align="left">
   <div style="width: 320px;">
     <p>Text 1</p>
   </div>
