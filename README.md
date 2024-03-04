@@ -28,7 +28,8 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 <div align="left" width="334" height="720">
  ![Untitled design-3](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/4882330d-ad45-4743-bb0e-c5e48d934e72)
-</div>![Untitled design-3](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/4882330d-ad45-4743-bb0e-c5e48d934e72)
+</div>
+![Untitled design-3](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/4882330d-ad45-4743-bb0e-c5e48d934e72)
 
 
 ![Untitled design-3](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/e8bcbb51-42bd-4c6e-8d5b-55993077d545)
