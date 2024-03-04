@@ -25,17 +25,18 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 ### Some of my small projects: 
 
-<div align="left">
-  <div style="width: 334; display: inline-block;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 320px;">
     <p>Text 1</p>
   </div>
-  <div style="width: 334; display: inline-block;">
+  <div style="width: 320px;">
     <p>Text 2</p>
   </div>
-  <div style="width: 334; display: inline-block;">
+  <div style="width: 320px;">
     <p>Text 3</p>
   </div>
 </div>
+
 <div align="left" >
   <img src="https://github.com/BeaverOnAMission/Assets/blob/main/Untitled%20design-3.gif" width="334" height="720"/>
   <img src="https://github.com/BeaverOnAMission/Assets/blob/main/clideo_editor_389ce88eb448498882c6d5894150c819-ezgif.com-video-to-gif-converter.gif" width="334" height="720"/>
