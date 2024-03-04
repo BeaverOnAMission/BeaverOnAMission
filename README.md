@@ -27,7 +27,7 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 
 <div align="center">
-  <img src="[https://example.com/gif1.gif](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/25932995-374e-4f50-a142-18e95fe50f93)" width="334" height="720"/>
+  <img src="https://example.com/gif1.gif](https://github.com/BeaverOnAMission/BeaverOnAMission/assets/161192575/25932995-374e-4f50-a142-18e95fe50f93" width="334" height="720"/>
  
 </div>
 
