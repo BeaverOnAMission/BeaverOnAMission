@@ -23,4 +23,5 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
   </a>
 </p>
 
+### Some of my small projects: 
 
