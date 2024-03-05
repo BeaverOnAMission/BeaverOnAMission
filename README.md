@@ -25,21 +25,27 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 ### Some of my small projects: 
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Text 1   | ![Image 1](image1.png) | Text 2   |
-| Text 3   | ![Image 2](image2.png) | Text 4   |
+<table>
+  <col width="332">
+  <col width="332">
+  <col width="332">
+  <tr>
+    <td>Text 1</td>
+    <td width="332">Text 3</td>
+    <td>Text 3</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/BeaverOnAMission/Assets/blob/main/Untitled%20design-3.gif" width="334" height="720"/></td>
+    <td width="332"> <img src="https://github.com/BeaverOnAMission/Assets/blob/main/clideo_editor_389ce88eb448498882c6d5894150c819-ezgif.com-video-to-gif-converter.gif" width="334" height="720"/></td>
+    <td> <img src="https://github.com/BeaverOnAMission/Assets/blob/main/RPReplay_Final1709482380%20(online-video-cutter.com)-2-2.gif" width="334" height="720"/></td>
+  </tr>
+</table>
 
 
 
 
 
-<div align="left" >
-  <img src="https://github.com/BeaverOnAMission/Assets/blob/main/Untitled%20design-3.gif" width="334" height="720"/>
-  <img src="https://github.com/BeaverOnAMission/Assets/blob/main/clideo_editor_389ce88eb448498882c6d5894150c819-ezgif.com-video-to-gif-converter.gif" width="334" height="720"/>
-  <img src="https://github.com/BeaverOnAMission/Assets/blob/main/RPReplay_Final1709482380%20(online-video-cutter.com)-2-2.gif" width="334" height="720"/>
 
-</div>
 
 
 
