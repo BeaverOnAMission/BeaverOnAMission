@@ -25,17 +25,11 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 ### Some of my small projects: 
 
-<div style="display: table; width: 100%;">
-  <div style="display: table-cell; width: 33.33%;">
-    <p>Text 1</p>
-  </div>
-  <div style="display: table-cell; width: 33.33%;">
-    <p style="text-align: center;">Text 2</p>
-  </div>
-  <div style="display: table-cell; width: 33.33%;">
-    <p style="text-align: right;">Text 3</p>
-  </div>
-</div>
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Text 1   | ![Image 1](image1.png) | Text 2   |
+| Text 3   | ![Image 2](image2.png) | Text 4   |
+
 
 
 
