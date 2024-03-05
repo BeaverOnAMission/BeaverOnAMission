@@ -31,14 +31,14 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
   <col width="332">
   <tr>
     <td>App with different drawing and animation practices</td>
-    <td width="332">Word-guessing game app, Featuring:  
-      Checking for word lenght + repeted/used words,  
-      .lowercased().trimmingCharacters(in: .whitespacesAndNewlines),  
-      UITableView custom background,  
+    <td width="332">Word-guessing game app, Featuring:<br>
+      Checking for word lenght + repeted/used words,<br> 
+      .lowercased().trimmingCharacters(in: .whitespacesAndNewlines),<br>  
+      UITableView custom background,<br>  
       Using .txt file data</td>
-    <td>"Moonshot" app displaying information about  Apollo program missions, Featuring:  
-   Utilising JSON file,  
-   Extension checking for color darkness to dynamically change text color,  
+    <td>"Moonshot" app displaying information about  Apollo program missions, Featuring:<br>  
+   Utilising JSON file,<br>  
+   Extension checking for color darkness to dynamically change text color,<br>  
    Binding Modes.
  </td>
   </tr>
