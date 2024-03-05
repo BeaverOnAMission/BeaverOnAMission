@@ -74,6 +74,31 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
     <td width="332"> <img src="https://github.com/BeaverOnAMission/Assets/blob/main/clideo_editor_458c1ad4e8324115ba1285e6dd89caae-ezgif.com-video-to-gif-converter.gif" width="334" height="720"/></td>
     <td> <img src="https://github.com/BeaverOnAMission/Assets/blob/main/Untitled%20design-2.gif" width="334" height="720"/></td>
      </tr>
+  <tr>
+ <td>Food-order app sending orders to server, handling data transmission, errors and server interaction, Featuring:<br>
+   Handling data transmission and server interaction<br>
+   Await <br>
+   AsyncImage<br>
+    <a href="https://github.com/BeaverOnAMission/RockPaperScisors-Project-3-/tree/main" target="_blank">CupcakeCorner(Project 10)</a>
+</td>
+    <td width="332">BucketList app, displaying a map with your locations and nearest attractions fetched from Wiki + authentication functionality, Featuring:<br>
+    MVVM architecture<br> 
+      API for fetching nearby attractions from Wikipedia, <br>
+      Biometric authentication, <br>
+      MapKit + locations.<br>
+       <a href="https://github.com/BeaverOnAMission/Bucket-List-Project-14-/tree/main" target="_blank">BucketList(Project 14)</a><br>
+    </td>
+    <td>A book tracking application where users can manage their book collection and leave a review with custom rating system, Featuring:<br>  
+   @Binding,  <br>  
+CoreData.<br>  
+       <a href="https://github.com/BeaverOnAMission/Bookworm-Project-11-" target="_blank">Bookworm(Project 11)</a><br>
+ </td>
+</tr>
+    <tr>
+  <td><img src="https://github.com/BeaverOnAMission/Assets/blob/main/RPReplay_Final1709482380%20(online-video-cutter.com).gif" width="334" height="720"/></td>
+    <td width="332"> <img src="https://github.com/BeaverOnAMission/Assets/blob/main/Untitled design-4-2.gif" width="334" height="720"/></td>
+    <td> <img src="https://github.com/BeaverOnAMission/Assets/blob/main/RPReplay_Final1709482380online-video-cutter.com-2-ezgif.com-video-to-gif-converter.gif" width="334" height="720"/></td>
+     </tr>
 </table>
 
 
