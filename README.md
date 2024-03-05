@@ -25,17 +25,18 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 ### Some of my small projects: 
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 320px;">
+<div style="display: table; width: 100%;">
+  <div style="display: table-cell; width: 33.33%;">
     <p>Text 1</p>
   </div>
-  <div style="width: 320px;">
-    <p>Text 2</p>
+  <div style="display: table-cell; width: 33.33%;">
+    <p style="text-align: center;">Text 2</p>
   </div>
-  <div style="width: 320px;">
-    <p>Text 3</p>
+  <div style="display: table-cell; width: 33.33%;">
+    <p style="text-align: right;">Text 3</p>
   </div>
 </div>
+
 
 
 
