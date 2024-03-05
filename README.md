@@ -30,16 +30,22 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
   <col width="332">
   <col width="332">
   <tr>
-    <td>App with different drawing and animation practices</td>
+    <td>App with different drawing and animation practices<br>
+      <a href="[https://example.com](https://github.com/BeaverOnAMission/Drawing-Project-9-/tree/main)" target="_blank">Drawing(Project 9)</a><br>
+      <a href="[https://github.com/BeaverOnAMission/Animation-Project-6-/tree/main)" target="_blank">Animation(Project 6)</a><br>
+</td>
     <td width="332">Word-guessing game app, Featuring:<br>
       Checking for word lenght + repeted/used words,<br> 
       .lowercased().trimmingCharacters(in: .whitespacesAndNewlines),<br>  
       UITableView custom background,<br>  
-      Using .txt file data</td>
+      Using .txt file data<br>
+       <a href="https://github.com/BeaverOnAMission/WordScrumble-Project-5-/tree/main" target="_blank">WordScrumble(Project 5)</a><br>
+    </td>
     <td>"Moonshot" app displaying information about  Apollo program missions, Featuring:<br>  
    Utilising JSON file,<br>  
    Extension checking for color darkness to dynamically change text color,<br>  
-   Binding Modes.
+   Binding Modes.<br>
+       <a href="[[https://github.com/BeaverOnAMission/Animation-Project-6-/tree/main)](https://github.com/BeaverOnAMission/Moonshot-Project-8-)" target="_blank">Moonshot(Project 8)</a><br>
  </td>
   </tr>
   <tr>
