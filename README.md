@@ -25,11 +25,18 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 ### Some of my small projects: 
 
-<div align="left">
-    <p width: 320px>Text 1</p>
- <p width: 320px>Text 1</p>
-   <p width: 320px>Text 1</p>
+<div align="center">
+  <div style="width: 320px; display: inline-block;">
+    <p>Text 1</p>
+  </div>
+  <div style="width: 320px; display: inline-block;">
+    <p>Text 2</p>
+  </div>
+  <div style="width: 320px; display: inline-block;">
+    <p>Text 3</p>
+  </div>
 </div>
+
 
 <div align="left" >
   <img src="https://github.com/BeaverOnAMission/Assets/blob/main/Untitled%20design-3.gif" width="334" height="720"/>
