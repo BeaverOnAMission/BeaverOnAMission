@@ -26,15 +26,9 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 ### Some of my small projects: 
 
 <div align="left">
-  <div style="width: 320px;">
-    <p>Text 1</p>
-  </div>
-  <div style="width: 320px;">
-    <p>Text 2</p>
-  </div>
-  <div style="width: 320px;">
-    <p>Text 3</p>
-  </div>
+    <p width: 320px>Text 1</p>
+ <p width: 320px>Text 1</p>
+   <p width: 320px>Text 1</p>
 </div>
 
 <div align="left" >
