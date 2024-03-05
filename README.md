@@ -30,9 +30,17 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
   <col width="332">
   <col width="332">
   <tr>
-    <td>Text 1</td>
-    <td width="332">Text 3</td>
-    <td>Text 3</td>
+    <td>App with different drawing and animation practices</td>
+    <td width="332">Word-guessing game app, Featuring:  
+      Checking for word lenght + repeted/used words,  
+      .lowercased().trimmingCharacters(in: .whitespacesAndNewlines),  
+      UITableView custom background,  
+      Using .txt file data</td>
+    <td>"Moonshot" app displaying information about  Apollo program missions, Featuring:  
+   Utilising JSON file,  
+   Extension checking for color darkness to dynamically change text color,  
+   Binding Modes.
+ </td>
   </tr>
   <tr>
     <td><img src="https://github.com/BeaverOnAMission/Assets/blob/main/Untitled%20design-3.gif" width="334" height="720"/></td>
