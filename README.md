@@ -24,7 +24,7 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
     <a href="https://t.me/BMBBO" target="_blank" rel="noreferrer">
     <picture>
       <source srcset="https://github.com/BeaverOnAMission/Assets/blob/main/icons8-telegram-48.png" />
-      <img src="https://github.com/BeaverOnAMission/Assets/blob/main/icons8-telegram-48.png" width="40" height="40" alt="Telegram Logo" />
+      <img src="https://github.com/BeaverOnAMission/Assets/blob/main/icons8-telegram-48.png" width="45" height="45" alt="Telegram Logo" />
     </picture>
   </a>
 </p>
