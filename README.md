@@ -25,17 +25,18 @@ I am enthusiastic 19-year-old, who wants to implement his ideas through mobile d
 
 ### Some of my small projects: 
 
-<div align="center">
-  <div style="width: 320px; display: inline-block;">
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 320px;">
     <p>Text 1</p>
   </div>
-  <div style="width: 320px; display: inline-block;">
+  <div style="width: 320px;">
     <p>Text 2</p>
   </div>
-  <div style="width: 320px; display: inline-block;">
+  <div style="width: 320px;">
     <p>Text 3</p>
   </div>
 </div>
+
 
 
 <div align="left" >
